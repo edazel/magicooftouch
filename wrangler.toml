@@ -11,7 +11,7 @@ not_found_handling = "single-page-application"
 [[d1_databases]]
 binding = "DB"
 database_name = "magic-touch"
-database_id = "REPLACE_WITH_D1_DATABASE_ID"
+database_id = "870cb5f3-b361-4c0e-8f43-9eb56ec48cdf"
 migrations_dir = "migrations"
 
 [triggers]
